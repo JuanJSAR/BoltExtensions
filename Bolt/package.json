@@ -1,0 +1,11 @@
+{
+    "name": "bolt.lasm.boltextensions",
+    "displayName": "Bolt Extensions",
+    "version": "1.3.2",
+    "unity": "2018.4",
+    "description": "Extensions for Bolt Visual Scripting for the Unity Engine.",
+    "keywords": [ "bolt", "addons", "extensions" ],
+    "license": "MIT",
+    "category": "Addons",
+    "dependencies": {}
+}
