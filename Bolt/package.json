@@ -1,11 +1,22 @@
 {
-    "name": "bolt.lasm.boltextensions",
-    "displayName": "Bolt Extensions",
-    "version": "1.3.2",
-    "unity": "2018.4",
-    "description": "Extensions for Bolt Visual Scripting for the Unity Engine.",
-    "keywords": [ "bolt", "addons", "extensions" ],
-    "license": "MIT",
-    "category": "Addons",
-    "dependencies": {}
+  "name": "bolt.lasm.boltextensions",
+  "displayName": "Bolt Extensions",
+  "version": "1.3.2",
+  "unity": "2018.4",
+  "description": "Extensions for Bolt Visual Scripting for the Unity Engine.",
+  "keywords": [
+    "bolt",
+    "addons",
+    "extensions"
+  ],
+  "license": "MIT",
+  "category": "Addons",
+  "repository": "https://github.com/favoyang/unity-addressable-importer.git",
+  "author": {
+    "name": "Life and Style Media",
+    "url": "https://github.com/LifeandStyleMedia"
+  },
+  "dependencies": {
+    "net.sirenix.odinserializer": "https://github.com/JuanJSAR/odin-serializer.git?path=Build/Assets/Plugins/Sirenix/OdinSerializer"
+  }
 }

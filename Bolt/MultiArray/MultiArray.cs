@@ -3,7 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Lasm.OdinSerializer;
+using OdinSerializer;
 
 namespace Lasm.BoltExtensions
 {

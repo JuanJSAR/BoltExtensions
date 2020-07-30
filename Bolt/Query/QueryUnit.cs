@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
 using Ludiq;
-using Lasm.OdinSerializer;
+using OdinSerializer;
 using System;
 
 namespace Lasm.BoltExtensions

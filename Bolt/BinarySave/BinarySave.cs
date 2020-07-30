@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
-using Lasm.OdinSerializer;
+using OdinSerializer;
 using System;
 using Ludiq;
 using Bolt;

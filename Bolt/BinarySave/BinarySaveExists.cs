@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using Ludiq;
 using Bolt;
-using Lasm.OdinSerializer;
+using OdinSerializer;
 using System.IO;
 
 namespace Lasm.BoltExtensions
